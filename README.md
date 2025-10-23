@@ -5,34 +5,32 @@
 > — *ME*
 ---
 
-## 🌍 About Me
+Hey, I'm **Lucas** — a Computer Science student who enjoys solving problems and breaking things just to figure out how they work.  
+I’m currently studying **Computer Science**, learning how data, infrastructure, and software can fit together without catching fire (most of the time).  
 
-Hey! I'm **Lucas Fernandes**, a Computer Science student who believes that technology becomes meaningful when it connects people, solves real problems, and creates opportunities to grow.  
-
-I’m currently pursuing my **bachelor’s degree in Computer Science**, exploring how data, infrastructure, and software architecture come together to build scalable, reliable systems.  
-Even without a current internship, I keep learning by building, breaking, and rebuilding — because the best lessons come from doing things hands-on.
+No internship yet, but I’m building my own experience through small projects, experiments, and a lot of debugging at 2 AM.
 
 ---
 
-## ⚡ What Drives Me
+## ⚡ What I Like Working On
 
-- 📊 Turning **data** into knowledge and smarter decisions  
-- ⚙️ Designing and maintaining **infrastructure** that scales  
-- 🧠 Building efficient **back-end systems** that make everything run smoothly  
+- 📊 Data analysis and visualization  
+- ⚙️ Infrastructure and automation  
+- 🧠 Back-end development and APIs  
 
-What excites me most is understanding how different technologies connect and how a small improvement can create a massive ripple effect.
+I like working on stuff that’s practical — something you can run, test, and actually break.
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages**
+**Languages**  
 > Python • Java • JavaScript • SQL  
 
-**Frameworks & Libraries**
+**Frameworks & Libraries**  
 > Node.js • Express • Pandas • NumPy  
 
-**Tools & Platforms**
+**Tools & Platforms**  
 > Git • Linux • Docker • VSCode  
 
 ---
@@ -46,8 +44,8 @@ What excites me most is understanding how different technologies connect and how
 
 ## 🤝 Let's Connect
 
-I enjoy meeting people who love to learn, create, and share ideas.  
-If you’re into collaboration, experimentation, and building things that matter — I’d love to connect.
+I'm always open to learning and collaborating on interesting projects.  
+Feel free to reach out if you want to share ideas or just talk tech.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
