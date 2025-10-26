@@ -21,35 +21,48 @@ I like working on stuff that’s practical — something you can run, test, and 
 ---
 
 ## 🧰 Tech Stack
+  
+**Languages**
 
-**Languages**  
-> Python • Java • JavaScript • SQL • C • Haskell • React • HTML • CSS
+Back-end:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="23" height="23" style="vertical-align: middle;"/> Python • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="23" height="23" style="vertical-align: middle;"/> Java • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="23" height="23" style="vertical-align: middle;"/> C# • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="23" height="23" style="vertical-align: middle;"/> C • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width="23" height="23" style="vertical-align: middle;"/> Haskell • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="26" height="26" style="vertical-align: middle;"/> MySQL
 
-**Frameworks & Libraries**  
-> Node.js • Express • Pandas • NumPy • Spark • Matplotlib • Spring
 
-**Tools & Platforms**  
-> Git • Linux • Docker • IDEs 
+Front-end:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="23" height="23" style="vertical-align: middle;"/> JavaScript • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="23" height="23" style="vertical-align: middle;"/> React • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="23" height="23" style="vertical-align: middle;"/> HTML • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="23" height="23" style="vertical-align: middle;"/> CSS
 
+**Frameworks & Libraries**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="23" height="23" style="vertical-align: middle;"/> Node.js •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="23" height="23" style="vertical-align: middle; filter: invert(1);"/> Express •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" width="23" height="23" style="vertical-align: middle;"/> Vite •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="23" height="23" style="vertical-align: middle;"/> React •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="23" height="23" style="vertical-align: middle;"/> Pandas •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="23" height="23" style="vertical-align: middle;"/> NumPy •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="23" height="23" style="vertical-align: middle;"/> Spark •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="23" height="23" style="vertical-align: middle;"/> Matplotlib •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" width="23" height="23" style="vertical-align: middle;"/> Seaborn •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="23" height="23" style="vertical-align: middle;"/> Spring
+
+**Tools & Platforms**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="23" height="23" style="vertical-align: middle;"/> Git •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="23" height="23" style="vertical-align: middle;"/> Linux •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="23" height="23" style="vertical-align: middle;"/> Fedora •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="23" height="23" style="vertical-align: middle;"/> Docker •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="23" height="23" style="vertical-align: middle;"/> JetBrains •
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="23" height="23" style="vertical-align: middle;"/> VS Code
 ---
 
 ## 📈 GitHub Overview
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-FcNw&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to learning and collaborating on interesting projects.  
-Feel free to reach out if you want to share ideas or just talk tech.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/seu-link)
 
 ---
-
+          
+  
 ⭐ *Proud creator of bugs I’ll deny later.*
+
+<div align="left">
+ <a href="https://hits.sh/github.com/Lucas-FcNw/"><img alt="Hits" src="https://hits.sh/github.com/Lucas-FcNw.svg?label=Profile%20Views&logo=github"/></a>
+</div>
