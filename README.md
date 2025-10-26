@@ -8,8 +8,6 @@
 Hey, I'm **Lucas** — a Computer Science student who enjoys solving problems and breaking things just to figure out how they work.  
 I’m currently studying **Computer Science**, learning how data, infrastructure, and software can fit together without catching fire (most of the time).  
 
-No internship yet, but I’m building my own experience through small projects, experiments, and a lot of debugging at 2 AM.
-
 ---
 
 ## ⚡ What I Like Working On
@@ -25,13 +23,13 @@ I like working on stuff that’s practical — something you can run, test, and 
 ## 🧰 Tech Stack
 
 **Languages**  
-> Python • Java • JavaScript • SQL  
+> Python • Java • JavaScript • SQL • C • Haskell • React • HTML • CSS
 
 **Frameworks & Libraries**  
-> Node.js • Express • Pandas • NumPy  
+> Node.js • Express • Pandas • NumPy • Spark • Matplotlib • Spring
 
 **Tools & Platforms**  
-> Git • Linux • Docker • VSCode  
+> Git • Linux • Docker • IDEs 
 
 ---
 
