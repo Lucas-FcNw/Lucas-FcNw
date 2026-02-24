@@ -43,6 +43,10 @@ Front-end:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="23" height="23" style="vertical-align: middle;"/> Matplotlib •
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" width="23" height="23" style="vertical-align: middle;"/> Seaborn •
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="23" height="23" style="vertical-align: middle;"/> Spring
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="23" height="23" style="vertical-align: middle;"/> Spark
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg" width="23" height="23" style="vertical-align: middle; "/> Streamlit
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/networkx/networkx-original.svg" width="23" height="23" style="vertical-align: middle; " /> NetworkX
+
 
 **Tools & Platforms**
 
@@ -55,7 +59,6 @@ Front-end:
 ---
 
 ## 📈 GitHub Overview
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-FcNw&show_icons=true&theme=tokyonight&hide_border=true)
 
 
 ---
